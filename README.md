@@ -1,7 +1,7 @@
 # Hello There!
 ### I Am Nish!
 
-<img height="32" width="32" src="./app/assets/Spotify.svg" />
+<img height="32" width="32" src="./assets/Spotify.svg" />
 
 ### Languages and Tools:
 
