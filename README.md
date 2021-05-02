@@ -1,7 +1,6 @@
 # Hello There!
 ### I Am Alex!
-
-<img height="32" width="32" src="./assets/Spotify.svg" />
+<h1 align="center"><img src="./assets/logo.gif" width="30px"> Discord Music Bot <img src="./assets/logo.gif" width="30px"></h1>
 
 ### Languages and Tools:
 
