@@ -1,5 +1,5 @@
 # Hello There!
-### I Am Nish!
+### I Am Alex!
 
 <img height="32" width="32" src="./assets/Spotify.svg" />
 
@@ -18,7 +18,3 @@
 More Info?
 
 ---
-
-#### There We Go
-![Nishant1500's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishant1500&show_icons=true&theme=gruvbox)
-<img align="center" alt="Zero's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant1500&langs_count=8&layout=compact" />
